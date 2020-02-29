@@ -1,5 +1,3 @@
-# Peaceable Queens GUI
-
 Inspired by this interesting problem:
 https://oeis.org/A250000
 
